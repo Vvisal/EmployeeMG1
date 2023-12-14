@@ -5,5 +5,8 @@
 using namespace std;
 
 class application{
+private:
+public:
 
 };
+
