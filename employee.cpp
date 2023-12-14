@@ -6,5 +6,6 @@ class employee{
     private:
         int id;
         string name;
+        string department;
     public:
 };
