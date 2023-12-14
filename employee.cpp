@@ -21,4 +21,28 @@ class employee{
             this->department = department;
             this->salary=salary;
         }
+        int getId(){
+            return id;
+        }
+        void setId(int id){
+            this->id = id;
+        }
+        string getName(){
+            return name;
+        }
+        void setName(string name){
+            this->name = name;
+        }
+        string getDepartment(){
+            return department;
+        }
+        void setDepartment(string department){
+            this->department = department;
+        }
+        double getSalary(){
+            return salary;
+        }
+        void setSalary(double salary) {
+            this->salary = salary;
+        }
 };
