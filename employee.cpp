@@ -5,6 +5,6 @@ using namespace std;
 class employee{
     private:
         int id;
-        
+        string name;
     public:
 };
