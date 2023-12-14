@@ -4,5 +4,7 @@ using namespace std;
 
 class employee{
     private:
+        int id;
+        
     public:
 };
